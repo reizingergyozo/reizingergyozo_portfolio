@@ -1,0 +1,81 @@
+body{
+	margin: 0;
+	background-color: #A3B506;
+	font-family: 'Montserrat', sans-serif;
+	
+}
+
+.helyzet{
+	margin: auto;
+	width: 90%; 
+	overflow: hidden;
+	font-size:  20px;
+	
+}
+header{
+	background: #F7FFB4; 	
+}
+header a{
+	color: black;
+	font-size: 32px;
+	border: groove 4px black;
+	border-radius: 12px;
+	background-color: #A3B506;
+}
+header a:hover{
+	background-color: #B9CC19;
+}	
+
+header li{
+	display: inline-block;
+	margin: 10px;
+}
+
+.torzs{
+	text-align: left;
+	}
+	.torzs p{
+	font-size:26px;
+	color: black;
+	margin-bottom: 20px;
+}
+.torzs h1{
+	margin-top: 0;
+	font-size: 40px;
+	margin:20px;
+	margin-bottom: 10px;
+	color: black;
+
+}
+.keret{
+	text-align: center;
+	background-color: #F7FFB4;
+	padding-bottom: 20px;
+	
+
+}
+.kep {
+	width: 100%;
+	max-width: 800px;
+	display: inline-block;
+	background-color: #A3B506;
+  	padding: 30px;
+  	margin-top: 30px;
+}
+.kep img {
+	max-width: 800px;
+}
+.forras{
+	margin-left: 1000px;
+	text-align: center;
+	font-size: 18px;
+	color: black;
+	
+}
+.forras li{
+	margin-bottom: 8px;
+	color: black;
+}
+.forras a{
+	color: black;
+}
